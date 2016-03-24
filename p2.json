@@ -1,0 +1,26 @@
+{
+    "Teams": [
+
+        {
+            "Name": "Chelsea F.C.",
+            "Logo": "images/Chelsea_FC.png",
+            "History": "Chelsea Football Club is a professional football club based in Fulham, London, that competes in the Premier League. Founded in 1905, the club's home ground since then has been Stamford Bridge.[2] Chelsea had their first major success in 1955, when they won the league championship. They won various cup competitions between 1965 and 1990."
+  },
+
+        {
+            "Name": "Arsenal F.C.",
+            "Logo": "images/Arsenal_FC.png",
+            "History": "Arsenal were founded in 1886 in Woolwich and in 1893 became the first club from the south of England to join The Football League. In 1913, they moved north across the city to Arsenal Stadium in Highbury. They became Tottenham Hotspur's nearest club, beginning the North London Derby. Herbert Chapman changed Arsenal's traditional red and white kit in 1933 to include white sleeves"
+
+  },
+        {
+            "Name": "Manchester United F.C.",
+            "Logo": "images/Manchester_United_FC.png",
+            "History": "Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Founded as Newton Heath LYR Football Club in 1878, the club changed its name to Manchester United in 1902 and moved to Old Trafford in 1910."
+
+
+
+  }
+]
+
+}
